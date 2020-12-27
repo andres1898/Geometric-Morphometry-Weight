@@ -1,5 +1,5 @@
 # Geometric-Morphometry-Weight
-Here you can watch my scrips and methodoly for my final work fo Comparada I course.
+Here you can watch my scrips and methodoly for my final work of Comparative Biology I course.
 
 There are tree data set: Ospina, Watanabe and Rosacea.
 
